@@ -71,6 +71,6 @@
 ## Task3 & Task4
 - Build and pushed docker image manually as well as using github actions
 
--. Dockerhub links for images
+- Dockerhub links for images
 1. [pushed manually from machine](https://hub.docker.com/repository/docker/abhishekvarma979/fastapihelloworld)
 2. [pushed from github though actions](https://hub.docker.com/repository/docker/abhishekvarma979/simplefastapi)
