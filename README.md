@@ -63,3 +63,8 @@
 15. docker push abhishekvarma979/app:latest
 - pushing the built image to the docker registry
 
+## Task2:
+
+### Run the hello-world image
+![helloworld image running](screenshots/helloworld.PNG)
+
